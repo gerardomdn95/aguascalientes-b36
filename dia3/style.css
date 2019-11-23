@@ -1,0 +1,36 @@
+/* ID */
+
+#mainContainer {
+    /* 100% del alto disponible en pantalla */
+    /* vh View Height */
+    height: 100vh;
+    /* vw View Width */
+    /* width: 100vw; */
+    background: fuchsia;
+    border: solid 5px black;
+    /* Flexbox */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+/* Clases */
+
+.box {
+    height: 200px;
+    width: 200px;
+    border: solid 3px black;
+}
+
+.is-red {
+    background: red;
+}
+
+.is-blue {
+    background: blue;
+}
+
+.is-green {
+    background: green;
+}
