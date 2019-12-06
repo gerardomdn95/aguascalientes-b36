@@ -1,0 +1,5 @@
+# Ignoramos .vscode
+.vscode/*
+
+# Macs para caché
+.DS_Store
