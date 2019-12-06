@@ -3,3 +3,6 @@
 
 # Macs para caché
 .DS_Store
+
+# Ignorar confidencial.txt
+confidencial.txt
